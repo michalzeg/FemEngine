@@ -1,0 +1,19 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#E74C3C" stroke-width="1.5" fill="none">
+    <path d="M10 25 L10 38   M85 25 L85 38" />
+    <polyline points="8,34 10,38 12,34" />
+
+    <polyline points="83,34 85,38 87,34" />
+
+  </g>
+
+  <rect x="10" y="40" width="75" height="6" fill="#2C3E50" />
+
+  <path d="M20 55 L30 55 L25 46 Z" fill="#7F8C8D" />
+  <line x1="17" y1="59" x2="33" y2="59" stroke="#34495E" stroke-width="1.5" />
+
+  <path d="M65 55 L75 55 L70 46 Z" fill="#7F8C8D" />
+  <circle cx="67.5" cy="57" r="1.5" fill="#7F8C8D" />
+  <circle cx="72.5" cy="57" r="1.5" fill="#7F8C8D" />
+  <line x1="63" y1="59" x2="77" y2="59" stroke="#34495E" stroke-width="1.5" />
+</svg>
